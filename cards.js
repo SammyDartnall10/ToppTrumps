@@ -25,6 +25,10 @@ let cards = [
     title: "Six",
     score: 1
   },
+  {
+    title: "Seven",
+    score: 1
+  },
 ]
 
 module.exports = cards
